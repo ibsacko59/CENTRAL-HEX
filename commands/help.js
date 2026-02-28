@@ -155,7 +155,7 @@ async function helpCommand(sock, chatId, message) {
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
                 newsletterJid: '120363317041132843@newsletter',
-                newsletterName: 'CENTRAL-HEX',
+                newsletterName: 'Ibsacko🥷',
                 serverMessageId: -1
             }
         };
