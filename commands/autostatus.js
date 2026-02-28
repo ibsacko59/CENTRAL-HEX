@@ -7,8 +7,8 @@ const channelInfo = {
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-            newsletterJid: '120363407561123100@newsletter',
-            newsletterName: 'LASER MD',
+            newsletterJid: '120363317041132843@newsletter',
+            newsletterName: 'CENTRAL-HEX',
             serverMessageId: -1
         }
     }
