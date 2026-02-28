@@ -4,9 +4,9 @@ const path = require('path');
 
 async function helpCommand(sock, chatId, message) {
     const helpMessage = `
-╭━━━━〔 *${settings.botName || 'LASER-MD'}* 〕━━━━╮
+╭━━━━〔 *${settings.botName || '𝐂𝐄𝐍𝐓𝐑𝐀𝐋-𝐇𝐄𝐗'}* 〕━━━━╮
 ┃ 🛠️ Version: *${settings.version || '3.0.0'}*
-┃ 👤 Owner: *${settings.botOwner || 'Dev Weed'}*
+┃ 👤 Owner: *${settings.botOwner || '𝐈𝐁𝐒𝐀𝐂𝐊𝐎🥷'}*
 ┃ 📺 YT: ${global.ytch}
 ╰━━━━━━━━━━━━━━━━━━━━━━━╯
 
@@ -155,7 +155,7 @@ async function helpCommand(sock, chatId, message) {
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
                 newsletterJid: '120363317041132843@newsletter',
-                newsletterName: 'Ibsacko🥷',
+                newsletterName: 'CENTRAL-HEX',
                 serverMessageId: -1
             }
         };
